@@ -1,24 +1,9 @@
-# README
+# DocApptMaker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the original repo that DanMulvihill, TaranaPatel, JoeDearing and I created.
 
-Things you may want to cover:
+It's a collaboration and everyone was awesome with their contributions.
 
-* Ruby version
+I am keeping this repo up just for branch references, etc.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+But you can find the final repo under DocApptMaker on my pinned repositories and access the site/demo.
